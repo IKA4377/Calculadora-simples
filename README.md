@@ -1,6 +1,11 @@
 # Calculadora Simples
 Calculadora desenvolvida com HTML, CSS e JavaScript para praticar conceitos de lógica de programação e manipulação do DOM.
 
+## Projeto online
+ https://ika4377.github.io/Calculadora-simples/
+ ## Preview
+ ![Calculadora](assets/calculadora.png)
+
 ## Funcionalidades
 - Adição, subtração, multiplicação e divisão
 - Números decimais
